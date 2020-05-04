@@ -1,0 +1,11 @@
+unnamed package
+me.sebbaindustries.advancedafk
+me.sebbaindustries.advancedafk.commands
+me.sebbaindustries.advancedafk.commands.subs
+me.sebbaindustries.advancedafk.debug
+me.sebbaindustries.advancedafk.detection
+me.sebbaindustries.advancedafk.global
+me.sebbaindustries.advancedafk.lang
+me.sebbaindustries.advancedafk.listeners
+me.sebbaindustries.advancedafk.placeholderapi
+me.sebbaindustries.advancedafk.utils
